@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/portfolio/static/js/main.663fda79.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.663fda79.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.5fdca036.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.5fdca036.js.map",
-    "static/js/2.e071bb75.chunk.js": "/portfolio/static/js/2.e071bb75.chunk.js",
-    "static/js/2.e071bb75.chunk.js.map": "/portfolio/static/js/2.e071bb75.chunk.js.map",
-    "static/js/3.e511dfbf.chunk.js": "/portfolio/static/js/3.e511dfbf.chunk.js",
-    "static/js/3.e511dfbf.chunk.js.map": "/portfolio/static/js/3.e511dfbf.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.06c1b319.chunk.css",
+    "main.js": "/portfolio/static/js/main.af5ef14c.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.af5ef14c.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.8fed2963.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.8fed2963.js.map",
+    "static/js/2.58928664.chunk.js": "/portfolio/static/js/2.58928664.chunk.js",
+    "static/js/2.58928664.chunk.js.map": "/portfolio/static/js/2.58928664.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/portfolio/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.e071bb75.chunk.js.LICENSE.txt": "/portfolio/static/js/2.e071bb75.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/portfolio/static/media/logo.6ce24c58.svg"
+    "static/css/main.06c1b319.chunk.css.map": "/portfolio/static/css/main.06c1b319.chunk.css.map",
+    "static/js/2.58928664.chunk.js.LICENSE.txt": "/portfolio/static/js/2.58928664.chunk.js.LICENSE.txt",
+    "static/media/Hero.css": "/portfolio/static/media/billy-huynh-W8KTS-mhFUE-unsplash.0c52aa9a.jpg",
+    "static/media/building-768815_1280.3d3d7146.jpg": "/portfolio/static/media/building-768815_1280.3d3d7146.jpg",
+    "static/media/computer-1209641_1280.9757aa0f.jpg": "/portfolio/static/media/computer-1209641_1280.9757aa0f.jpg",
+    "static/media/Bio.css": "/portfolio/static/media/mathias-bach-laursen-uj7VvwJn_Vg-unsplash.feb75cdf.jpg",
+    "static/media/raghav-yadav-l7M7_tuqrZI-unsplash.aea18638.jpg": "/portfolio/static/media/raghav-yadav-l7M7_tuqrZI-unsplash.aea18638.jpg",
+    "static/media/server-1235959_1280.955fb928.jpg": "/portfolio/static/media/server-1235959_1280.955fb928.jpg",
+    "static/media/stock-1863880_1280.a759575a.jpg": "/portfolio/static/media/stock-1863880_1280.a759575a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5fdca036.js",
-    "static/js/2.e071bb75.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.663fda79.chunk.js"
+    "static/js/runtime-main.8fed2963.js",
+    "static/js/2.58928664.chunk.js",
+    "static/css/main.06c1b319.chunk.css",
+    "static/js/main.af5ef14c.chunk.js"
   ]
 }
